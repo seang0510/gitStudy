@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         //test1123
-        //git git
+        //git git 브런치 1에서 커밋
     }
 
 

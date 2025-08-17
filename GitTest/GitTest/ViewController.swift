@@ -15,8 +15,8 @@ class ViewController: UIViewController {
         
         //test1123123
         //test1123
-        //git git 브런치 1에서 커밋11
-        //git git
+        //git git 브런치 1에서 커밋1122
+        //git gitㅁㅁ
         //test bbranch333 ccc aaaa
         //bbb  llll bbbb
     }
